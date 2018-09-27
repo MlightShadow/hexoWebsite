@@ -1,5 +1,5 @@
 # Logo (Font Awesome Class)
-fa_logo: fa-cube
+fa_logo: fa-paperclip
 
 # Header
 menu:
@@ -29,11 +29,11 @@ twitter_url: https://twitter.com/?lang=en
 facebook_url: https://www.facebook.com/
 instagram_url: https://www.instagram.com/
 dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-alpha-dust
+github_url: https://github.com/MlightShadow
 googleplus_url: https://plus.google.com/
 behance_url: https://www.behance.net/
 fivehundredpx_url: https://500px.com/
-email_url: test@example.com
+email_url: rwayxu@hotmail.com
 rss_url: \#
 
 # Footer About Text
