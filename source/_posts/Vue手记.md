@@ -3,7 +3,6 @@ title: Vue手记
 date: 2018-09-26 13:28:03
 tags: 
     - vue 
-    - 测试
 categories: 
     - 笔记
 
@@ -13,7 +12,7 @@ categories:
 这篇手记主要是读[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")项目得到的一些理解整理
 而成
 
-# 测试标签
+### 测试标签
 
 <remark>测试下自定义表签</remark>
   
