@@ -2,16 +2,8 @@
 title: test2
 date: 2018-08-17 13:28:03
 tags:
+
 ---
-
-
-# Vue手记
-这篇手记主要是读[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")项目得到的一些理解整理
-而成
-
-# 
-
-<remark>测试下自定义表签</remark>
 
 <style> 
 remark{
