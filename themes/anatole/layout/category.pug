@@ -1,10 +1,10 @@
-extends partial/layout
+extends partial/nlayout
 
 block site_title
     != page.category + " · " + config.title
 
 block description
-    - var desc = '分类：' + page.category + ' - ' + config.title;
+    - var desc = __('Categories') + ': ' + page.category + ' - ' + config.title;
     meta(name="description", content=desc)
 
 block content

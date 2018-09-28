@@ -20,6 +20,16 @@
         a.current(href="/links")= __('Links')					
       else
         a(href="/links")= __('Links')		
+    li
+      if is_current('categories')
+        a.current(href="/categories")= __('Categories')					
+      else
+        a(href="/categories")= __('Categories')		
+    li
+      if is_current('tags')
+        a.current(href="/tags")= __('Tags')					
+      else
+        a(href="/tags")= __('Tags')		
   .information
     .back_btn
       li

@@ -1,2 +1,1 @@
-title: All categories
-type: "categories"
+[笔记](../categories/笔记 "")

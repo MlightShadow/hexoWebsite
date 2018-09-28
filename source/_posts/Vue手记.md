@@ -1,7 +1,12 @@
 ---
 title: Vue手记
 date: 2018-09-26 13:28:03
-tags: vue, test
+tags: 
+    - vue 
+    - 测试
+categories: 
+    - 笔记
+
 ---
 
 
