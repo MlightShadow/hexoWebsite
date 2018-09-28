@@ -680,6 +680,7 @@ a.btn {
   }
 
   .content {
+    margin-top: 90px;
     width: 100%;
     z-index: 2;
     position: absolute;
