@@ -1,5 +1,5 @@
 ---
-title: CMaNGOS编译部署教程
+title: CMaNGOS编译问题汇总
 date: 2018-08-17 13:27:21
 tags: 
     - cmangos

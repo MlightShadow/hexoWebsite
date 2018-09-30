@@ -9,13 +9,7 @@ categories:
 ---
 
 
-这篇手记主要是读[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")项目得到的一些理解整理
-而成
-
-### 测试标签
-
-<remark>测试下自定义表签</remark>
-  
+这篇手记主要是读[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")项目得到的一些理解整理, 这个慢慢写
   
 <style> 
 remark{
