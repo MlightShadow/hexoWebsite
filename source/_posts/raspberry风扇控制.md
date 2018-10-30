@@ -1,0 +1,12 @@
+---
+title: raspberry系统安装手册
+date: 2018-10-21 10:27:21
+tags: 
+    - 树莓派  
+categories:
+    - 笔记  
+
+---
+[教程](https://blog.newnius.com/raspberry-control-fan-with-transistor.html "")
+
+[fan.py](https://github.com/newnius/raspberryPi/blob/master/fan.py "")
