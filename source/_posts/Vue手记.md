@@ -1,5 +1,5 @@
 ---
-title: Vue手记
+title: Vue demo 学习
 date: 2018-09-26 13:28:03
 tags: 
     - vue 
@@ -9,7 +9,7 @@ categories:
 ---
 
 
-这篇手记主要是读[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")项目得到的一些理解整理, 这个慢慢写
+[https://github.com/bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri "")
   
 <style> 
 remark{

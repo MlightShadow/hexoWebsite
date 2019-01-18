@@ -1,5 +1,5 @@
 ---
-title: raspberry系统安装手册
+title: raspberry风扇控制
 date: 2018-10-21 10:27:21
 tags: 
     - 树莓派  
