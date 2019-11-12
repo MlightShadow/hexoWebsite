@@ -1,10 +1,8 @@
 ---
-title: 标签
+title: Tag
 ---
 
-* [cmangos](../tags/cmangos "")
-* [Mod](../tags/Mod "")
-* [vue](../tags/vue "")
-* [wow](../tags/wow "")
-* [老滚](../tags/老滚 "")
-* [树莓派](../tags/树莓派 "")
+* [cmangos](../tags/cmangos)
+* [wow](../tags/wow)
+* [老滚](../tags/老滚)
+* [raspberry](../tags/raspberry)

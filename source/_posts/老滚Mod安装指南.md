@@ -3,9 +3,8 @@ title: MOD...哦不 老滚5 安装指南
 date: 2018-04-09 13:28:03
 tags: 
     - 老滚
-    - Mod
 categories: 
-    - 游戏
+    - 摸鱼
 
 ---
 ### 1.Nexus Mod Manager
@@ -32,5 +31,4 @@ categories:
 
 ### 相关资料
 
-[这里](https://github.com/MlightShadow/etc/tree/master/%E8%80%81%E6%BB%9AMod)
-给出我这边整理的部分插件
+[这里](https://github.com/MlightShadow/etc/tree/master/%E8%80%81%E6%BB%9AMod) 给出我这边整理的部分插件

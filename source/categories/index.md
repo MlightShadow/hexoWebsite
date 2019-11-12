@@ -2,5 +2,4 @@
 title: 分类
 ---
 
-* [笔记](../categories/笔记 "")
-* [游戏](../categories/游戏 "")
+* [摸鱼](../categories/摸鱼)

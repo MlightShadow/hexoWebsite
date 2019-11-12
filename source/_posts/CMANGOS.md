@@ -1,21 +1,20 @@
 ---
-title: CMaNGOS编译问题汇总
+title: CMaNGOS 编译问题汇总
 date: 2018-08-17 13:27:21
 tags: 
-    - cmangos
     - wow
 categories:
-    - 游戏
+    - 摸鱼
 
 ---
 本篇环境为windows  
-这个[cmangos](https://github.com/cmangos/mangos-classic "")是他们官网托管在github上的源码库, 官网之前(2018-05)我访问已经没有了, [官网](https://cmangos.net/ "")这个链接我也给出
+这个[cmangos](https://github.com/cmangos/mangos-classic)是他们官网托管在github上的源码库, 官网之前(2018-05)我访问已经没有了, [官网](https://cmangos.net/)这个链接我也给出
 
 ### 文档
 
 cmangos给出了比较详细的文档, 当然实际操作中会遇到一些问题, 这就是我接下来要介绍的的坑  
 
-现在(2018-09)[文档](https://github.com/cmangos/issues/wiki "")已经移到cmangos的issues中的wiki下了, [Installation-Instructions](https://github.com/cmangos/issues/wiki/Installation-Instructions "")就是包含有我们编译所需要的所有步骤, 我这里不做逐步的演示和翻译
+现在(2018-09)[文档](https://github.com/cmangos/issues/wiki)已经移到cmangos的issues中的wiki下了, [Installation-Instructions](https://github.com/cmangos/issues/wiki/Installation-Instructions)就是包含有我们编译所需要的所有步骤, 我这里不做逐步的演示和翻译
 
 ### 环境部署
 

@@ -8,4 +8,4 @@ title: 关于我
 
 联系我: rwayxu@hotmail.com  
 
-![avatar.jpg](avatar.jpg "")
+![avatar.jpg](avatar.jpg)

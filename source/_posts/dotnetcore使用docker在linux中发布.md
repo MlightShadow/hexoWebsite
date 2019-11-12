@@ -1,9 +1,8 @@
 ---
-title: dotnetcore使用docker在linux中发布
+title: .Net core 使用 docker 在 linux 中发布
 date: 2019-01-16 21:28:03 
 categories: 
-    - 笔记
- 
+    - 摸鱼
 ---
 
 ### 关于dotnetcore与docker
